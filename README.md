@@ -6,7 +6,7 @@
 
 ## 기술스택
 - Nest.js
-- Postgrfes
+- PostgreSQL
 - class-transformer/class-validator
 - seedrandom
 
@@ -15,5 +15,5 @@
 - 랭킹 등록
 - 단어 퍼즐 목록
 
-## 배포주소
+## 배포주소
 [Swagger](http://beatoffice.com:5192/api)
